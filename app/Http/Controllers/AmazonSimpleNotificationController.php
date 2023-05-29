@@ -42,8 +42,8 @@ class AmazonSimpleNotificationController extends Controller
      */
     public function publish()
     {
-        $title       = 'Henry Title';
-        $body        = 'Henry Body';
+        $title       = '亨利的世界標題';
+        $body        = '亨利的世界內容';
         $icon        = secure_asset('images/messaging-icon.png');
         $clickAction = 'https://henrywar.blogspot.com/';
         try {

@@ -1,4 +1,4 @@
-# Laravel 7 使用 Amazon SNS 透過 Firebase 雲訊息推送通知平台推送網絡應用通知
+# Laravel 10 使用 Amazon SNS 透過 Firebase 雲訊息推送通知平台推送網絡應用通知
 
 引入 aws 的 aws-sdk-php-laravel 套件來擴增適用於 Laravel 的 AWS 開發套件，必須先滿足 Firebase 雲訊息推送通知服務的事前準備，使用 Amazon SNS 推送 API 推送網絡應用通知。
 
